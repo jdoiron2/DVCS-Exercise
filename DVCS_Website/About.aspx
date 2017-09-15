@@ -2,6 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Your application description page.</h3>
-    <p>Use this area to provide additional information.</p>
+    <h3>This is a test application to display the use of Git Hub Commits</h3>
+    <p>This will be used for the information about the website</p>
 </asp:Content>
